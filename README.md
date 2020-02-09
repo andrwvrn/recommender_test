@@ -5,5 +5,4 @@
 - Коллаборативного
 - Гибридного(коллаборативный+контентный)
 
-Используются данные из датасета MovieLens 20M (https://www.kaggle.com/grouplens/movielens-20m-dataset
-) 
+Используются данные из датасета MovieLens 20M (https://www.kaggle.com/grouplens/movielens-20m-dataset).
